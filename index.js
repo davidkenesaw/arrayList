@@ -43,6 +43,7 @@ class ArrayList {
     getArray(){
         return this.array;
     }
+    
 }
 
 module.exports = ArrayList;
